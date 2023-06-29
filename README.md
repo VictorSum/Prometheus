@@ -44,7 +44,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_1.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_1%20.png)
 
 
 ---
@@ -63,7 +63,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_2.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_2.png)
 
 
 ---
@@ -83,8 +83,8 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_3.1.png)
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_3.2.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_3.1.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_3.2.png)
 
 
 ---
@@ -102,7 +102,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_4.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_4.png)
 
 
 ---
@@ -115,7 +115,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/9-04_NetoHW/blob/main/img/9.04_5.png)
+![Скриншот-1](https://github.com/VictorSum/Prometheus/blob/main/img/9.04_5.png)
 
 
 ---
